@@ -7,7 +7,7 @@
 
 My name is Marivaldo and ..:
 
-I'm working as an ASP.NET developer analyst
+I'm working as an Software Developer
 
 
 <!--
