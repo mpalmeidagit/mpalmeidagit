@@ -5,9 +5,8 @@
 
 ### Hello! Welcome to my profile
 
-My name is Marivaldo and ..:
+My name is Marivaldo and I am a Software Developer.
 
-I'm working as an Software Developer
 
 
 <!--
