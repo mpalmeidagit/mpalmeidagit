@@ -3,7 +3,7 @@
 
 ### Hello! Welcome to my profile
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marivaldoalmeida/)](https://www.linkedin.com/in/marivaldoalmeida/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marivaldoalmeida/)](https://www.linkedin.com/in/marivaldoalmeida/ target="_blank")
 <!--
 **mpalmeidagit/mpalmeidagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
