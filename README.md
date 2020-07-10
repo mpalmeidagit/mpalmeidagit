@@ -7,6 +7,8 @@
 
 My name is Marivaldo and ..:
 
+I'm working as an ASP.NET developer analyst
+
 
 <!--
 **mpalmeidagit/mpalmeidagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
